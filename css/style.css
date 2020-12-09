@@ -1274,11 +1274,6 @@ html, body{ height: 100%; }
     PRICING AREA
     --*/
 
-.pricing-main{
-	background:url(../images/full-bg.png) no-repeat center ;
-	background-size:cover;
-}
-
 .pricing-main h2{
 	font-family: 'nautilus_pompiliusregular';
 	padding-bottom:30px;
